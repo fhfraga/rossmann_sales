@@ -1,5 +1,5 @@
 
-## Projeto de previsão vendas nas próximas seis semanas
+## Projeto de previsão vendas em uma rede de lojas nas próximas seis semanas
 
 <figure>
   <img src="./imagens/loja_rossmann.jpg " alt="Figura 1" />
